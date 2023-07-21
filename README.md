@@ -1,4 +1,4 @@
-# Data Structures and Algorithms with Java, C++ and Python
+# Data Structures and Algorithms with C++, Python and Java
 
 ## Introduction
 
@@ -7,11 +7,6 @@ Hey there, fellow coders! Welcome to Data Structures and Algorithms with Program
 You can find the full tutorial [here](https://www.programiz.com/dsa/algorithm).
 
 ### Topics Covered
-
-#### Java
-
-[Algorithms](https://github.com/sasszz/datastructures_and_algorithms/java/algorithms)
-[Data Structures](https://github.com/sasszz/datastructures_and_algorithms/java/datastructures)
 
 #### C++
 
@@ -25,7 +20,10 @@ You can find the full tutorial [here](https://www.programiz.com/dsa/algorithm).
 
 #### Python
 
-[Algorithms](https://github.com/sasszz/datastructures_and_algorithms/python/algorithms)
-[Data Structures](https://github.com/sasszz/datastructures_and_algorithms/python/datastructures)
+To Be Added
+
+#### Java
+
+To Be Added
 
 ## Happy coding! 😃👍
