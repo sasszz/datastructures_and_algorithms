@@ -20,9 +20,13 @@ You can find the full tutorial [here](https://www.programiz.com/dsa/algorithm).
 
 2. [Queue](https://github.com/sasszz/datastructures_and_algorithms/tree/main/c%2B%2B/datastructures/datastructures/queue.cpp)
 
+<br>
+
 #### Python
 
     To Be Added
+
+<br>
 
 #### Java
 
