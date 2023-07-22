@@ -8,9 +8,9 @@ You can find the full tutorial [here](https://www.programiz.com/dsa/algorithm).
 
 <br>
 
-### Topics Covered
+## Topics Covered
 
-#### C++
+### C++
 
 [Algorithms](https://github.com/sasszz/datastructures_and_algorithms/tree/main/c%2B%2B/algorithms)
 
@@ -24,14 +24,16 @@ You can find the full tutorial [here](https://www.programiz.com/dsa/algorithm).
 
 <br>
 
-#### Python
+### Python
 
     To Be Added
 
 <br>
 
-#### Java
+### Java
 
     To Be Added
 
-## Happy coding! 😃👍
+<br>
+
+Happy coding! 😃👍
