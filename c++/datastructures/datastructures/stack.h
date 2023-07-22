@@ -1,12 +1,12 @@
 //
-//  datastructures.h
+//  stack.h
 //  datastructures
 //
 //  Created by Lucie Chevreuil on 7/22/23.
 //
 
-#ifndef datastructures_h
-#define datastructures_h
+#ifndef stack_h
+#define stack_h
 
 #include <iostream>
 
@@ -31,8 +31,4 @@ void push(st *s, int newitem);
 void pop(st *s);
 void printStack(st *s);
 
-// ########################################################################
-// XX
-// ########################################################################
-
-#endif /* datastructures_h */
+#endif /* stack_h */

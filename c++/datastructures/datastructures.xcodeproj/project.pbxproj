@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		9B7168B82A6C1E0100BCFF2F /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B7168B72A6C1E0100BCFF2F /* main.cpp */; };
+		9B7168BF2A6C1E5000BCFF2F /* stack.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B7168BE2A6C1E5000BCFF2F /* stack.cpp */; };
+		9B7168C52A6C3CAD00BCFF2F /* queue.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B7168C42A6C3CAD00BCFF2F /* queue.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,10 @@
 /* Begin PBXFileReference section */
 		9B7168B42A6C1E0100BCFF2F /* datastructures */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = datastructures; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B7168B72A6C1E0100BCFF2F /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		9B7168BE2A6C1E5000BCFF2F /* stack.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = stack.cpp; sourceTree = "<group>"; };
+		9B7168C22A6C1EE800BCFF2F /* stack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = stack.h; sourceTree = "<group>"; };
+		9B7168C32A6C3CAD00BCFF2F /* queue.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = queue.h; sourceTree = "<group>"; };
+		9B7168C42A6C3CAD00BCFF2F /* queue.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = queue.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,10 @@
 			isa = PBXGroup;
 			children = (
 				9B7168B72A6C1E0100BCFF2F /* main.cpp */,
+				9B7168BE2A6C1E5000BCFF2F /* stack.cpp */,
+				9B7168C22A6C1EE800BCFF2F /* stack.h */,
+				9B7168C32A6C3CAD00BCFF2F /* queue.h */,
+				9B7168C42A6C3CAD00BCFF2F /* queue.cpp */,
 			);
 			path = datastructures;
 			sourceTree = "<group>";
@@ -119,7 +129,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B7168C52A6C3CAD00BCFF2F /* queue.cpp in Sources */,
 				9B7168B82A6C1E0100BCFF2F /* main.cpp in Sources */,
+				9B7168BF2A6C1E5000BCFF2F /* stack.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

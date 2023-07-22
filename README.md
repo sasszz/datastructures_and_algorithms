@@ -12,11 +12,13 @@ You can find the full tutorial [here](https://www.programiz.com/dsa/algorithm).
 
 [Algorithms](https://github.com/sasszz/datastructures_and_algorithms/tree/main/c%2B%2B/algorithms)
 
-1. [Bubble Sort](https://github.com/sasszz/datastructures_and_algorithms/tree/main/c%2B%2B/algorithms/bubblesort.cpp)
+1. Bubble Sort
 
-[Data Structures](https://github.com/sasszz/datastructures_and_algorithms/tree/main/c%2B%2B/datastructures)
+[Data Structures](https://github.com/sasszz/datastructures_and_algorithms/tree/main/c%2B%2B/datastructures/datastructures)
 
-1. [Stack](https://github.com/sasszz/datastructures_and_algorithms/tree/main/c%2B%2B/datastructures/stack.cpp)
+1. [Stack](https://github.com/sasszz/datastructures_and_algorithms/tree/main/c%2B%2B/datastructures/datastructures/stack.cpp)
+
+2. [Queue](https://github.com/sasszz/datastructures_and_algorithms/tree/main/c%2B%2B/datastructures/datastructures/queue.cpp)
 
 #### Python
 
